@@ -4,7 +4,7 @@
 
 
 - 🎯 My Goals: **Master front-end languages like HTML, CSS.**
-              <br> -**Learn and understand frameworks like React or Vue.js and JavaScript.**
+              <br> **Learn and understand frameworks like React or Vue.js and JavaScript.**
               <br> **Turn creative designs into modern, interactive user experiences.**
 
 - 📫 How to reach me **sebihkarim06@gmail.com**
