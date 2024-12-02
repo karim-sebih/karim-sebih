@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **sebihkarim06@gmail.com**
 
-- 🎯 My Goals: **Master front-end languages like HTML, CSS, and JavaScript.**
+- 🎯 My Goals: **Master front-end languages like HTML, CSS, and JavaScript.**\n
                **Learn and understand frameworks like React or Vue.js.**
                **Turn creative designs into modern, interactive user experiences.**
 
