@@ -6,7 +6,7 @@
 
 - 🎯 My Goals: **Master front-end languages like HTML, CSS, and JavaScript.**
               <br> **Learn and understand frameworks like React or Vue.js.**
-               **Turn creative designs into modern, interactive user experiences.**
+              <br> **Turn creative designs into modern, interactive user experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
