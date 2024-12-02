@@ -2,12 +2,12 @@
 
 - 🌱 What I’m Currently Doing: **Learning the basics of web development, such as HTML, CSS, and JavaScript.**
 
-- 📫 How to reach me **sebihkarim06@gmail.com**
 
 - 🎯 My Goals: **Master front-end languages like HTML, CSS.**
-              <br> **Learn and understand frameworks like React or Vue.js and JavaScript.**
+              <br> -**Learn and understand frameworks like React or Vue.js and JavaScript.**
               <br> **Turn creative designs into modern, interactive user experiences.**
 
+- 📫 How to reach me **sebihkarim06@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/#6704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6704" height="30" width="40" /></a>
